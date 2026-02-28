@@ -97,7 +97,7 @@ PlushieShop is a web application developed with Java, Spring Boot, and MySQL. It
 
    - Click on "Run Project".
 
-7. 🌐 ccess the application in your web browser at `http://localhost:80`.
+7. 🌐 Access the application in your web browser at `http://localhost:80`.
 
 > [!NOTE]
 > **Project Owner / Developer** 👨🏻‍💻  
