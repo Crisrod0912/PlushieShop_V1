@@ -39,7 +39,7 @@ PlushieShop is a web application developed with Java, Spring Boot, and MySQL. It
 
 ## 🖥️ Technologies Used
 
-- 🎨 **Frontend:** CSS, HTML, JavaScript  
+- 🎨 **Frontend:** CSS, HTML, Javascript  
 - ☕ **Backend:** Java  
 - 🚀 **Framework:** Spring Boot  
 - 🌿 **Template Engine:** Thymeleaf  
